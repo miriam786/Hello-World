@@ -5,4 +5,4 @@ This is a tester repository. I am figuring out how github commits work. Let's se
 
 Did you know that emoji's work here too? Amazing!
 
-:trollface:
+:trollface: /play trololo
